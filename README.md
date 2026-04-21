@@ -1,2 +1,18 @@
-# Application-Bloc-Notes
-développer une application Bloc-Notes complète. L'utilisateur pourra créer, lire, modifier et supprimer des notes personnelles. Chaque note possède un titre, un contenu, une couleur et une date.
+# Application Bloc Notes
+
+Application de gestion de notes permettant à l'utilisateur de :
+
+- Créer une note  
+- Lire les notes  
+- Modifier une note  
+- Supprimer une note  
+
+Chaque note contient :
+- Un titre  
+- Un contenu  
+- Une couleur  
+- Une date  
+
+## Technologies utilisées
+- Flutter (Frontend)
+- API REST (Backend si موجود)
