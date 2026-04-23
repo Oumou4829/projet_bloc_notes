@@ -82,7 +82,7 @@ class _CreateNotePageState extends State<CreateNotePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(estModification ? 'Modifier la note' : 'Nouvelle note'),
-        backgroundColor: Colors.amber[700],
+        backgroundColor: Colors.lightBlue[400],
         foregroundColor: Colors.white,
         actions: [
           IconButton(
@@ -182,7 +182,7 @@ class _CreateNotePageState extends State<CreateNotePage> {
                       : 'Créer la note',
                 ),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.amber[700],
+                  backgroundColor: Colors.lightBlue[400],
                   foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(vertical: 14),
                 ),
