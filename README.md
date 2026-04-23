@@ -354,10 +354,10 @@ Pour demander une nouvelle fonctionnalité, ouvrez une [issue](https://github.co
 
 ---
 
-**Fait avec ❤️ et Flutter**
+**Fait avec Flutter**
 
-//membres de groupe
-//24208
-//24197
-//24198
-//24209
+## membres de groupe
+- 24208
+- 24197
+- 24198
+- 24209
